@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bbtwo": "^0.1.1-alpha.0"
+    "bbtwo": "^0.3.2"
   }
 }
