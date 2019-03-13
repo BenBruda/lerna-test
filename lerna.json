@@ -1,6 +1,9 @@
 {
   "packages": [
-    "packages/*"
+    "modules/*",
+    "themes/*",
+    "tools/*"
+
   ],
-  "version": "independent"
+  "version": "0.1.0"
 }

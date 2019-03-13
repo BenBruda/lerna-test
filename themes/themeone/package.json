@@ -1,6 +1,6 @@
 {
-  "name": "bbthree",
-  "version": "0.1.0",
+  "name": "themeone",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bbone": "^0.0.8"
+  "devDependencies":{
+    "btwo": "^0.0.8"
   }
 }
