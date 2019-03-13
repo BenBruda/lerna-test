@@ -1,6 +1,6 @@
 {
   "name": "themetwo",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bbthree": "^0.3.2"
+    "bbthree": "^0.4.0"
   }
 }

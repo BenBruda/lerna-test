@@ -1,6 +1,6 @@
 {
   "name": "themeone",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bbtwo": "^0.3.4"
+    "bbtwo": "^0.4.0"
   }
 }
