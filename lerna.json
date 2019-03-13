@@ -4,6 +4,5 @@
     "themes/*",
     "tools/*"
   ],
-  "version": "0.3.0",
-  "preid": ""
+  "version": "0.3.0"
 }
