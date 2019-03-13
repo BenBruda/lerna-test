@@ -1,6 +1,6 @@
 {
   "name": "toolone",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bbtwo": "^0.4.2"
+    "bbtwo": "^0.4.3"
   }
 }
