@@ -1,6 +1,11 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "changed:packages":"node_modules/.bin/lerna changed",
+    "git:tag:push:changed:packages": "node_modules/.bin/lerna version",
+    "npm:publish:taged:packages":"node_modules/.bin/lerna publish from-git"
+  },
   "devDependencies": {
     "lerna": "^3.10.7"
   }
