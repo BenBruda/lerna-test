@@ -1,6 +1,6 @@
 {
   "name": "bbthree",
-  "version": "0.1.0",
+  "version": "0.1.1-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bbone": "^0.0.8"
+    "bbone": "^0.1.1-alpha.0"
   }
 }
